@@ -17,7 +17,7 @@ shop-floor operational performance with enterprise analytics and executive decis
 #### 🔹 Executive Commercial Sales & Profitability Insights
 * **Overview:** Interactive executive dashboard analyzing regional volume, revenue margins, and product performance.
 * **Key Features:** Dynamic target variance tracking, customer tiering analysis, and DAX-driven profit metrics.
-* **Deliverables:** [📄 View High-Res PDF Dashboard Showcase](./sales-dashboard-showcase.pdf) | [🔗 Interactive Web Portfolio Page](https://your-username.github.io/portfolio)
+* **Deliverables:** [📄 View High-Res PDF Dashboard Showcase](./Inventory Stock level-Dash Board.pdf) | [🔗 Interactive Web Portfolio Page](https://irfanchaudhrypk.github.io/irfanchaudhrypk/)
 
 ---
 
