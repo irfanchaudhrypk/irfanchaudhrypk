@@ -1,16 +1,24 @@
-## Hi there 👋
+# Muhammad Irfan | Operations Excellence & Data Analytics
 
-<!--
-**irfanchaudhrypk/irfanchaudhrypk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Continuous Improvement & Operations Excellence professional specializing in bridging 
+shop-floor operational performance with enterprise analytics and executive decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Core Competencies & Tech Stack
+* **Domain Expertise:** Continuous Improvement, OEE Optimization, Supply Chain Planning, Process Engineering
+* **Analytics & BI:** Power BI, DAX, Data Modeling, SQL, Advanced Excel
+* **Methodologies:** Lean Six Sigma, Root Cause Analysis, Operational Excellence (OpEx)
+
+---
+
+### 🚀 Featured Case Studies & Dashboards
+
+#### 🔹 Executive Commercial Sales & Profitability Insights
+* **Overview:** Interactive executive dashboard analyzing regional volume, revenue margins, and product performance.
+* **Key Features:** Dynamic target variance tracking, customer tiering analysis, and DAX-driven profit metrics.
+* **Deliverables:** [📄 View High-Res PDF Dashboard Showcase](./sales-dashboard-showcase.pdf) | [🔗 Interactive Web Portfolio Page](https://your-username.github.io/portfolio)
+
+---
+
+📬 **Connect with me:** [LinkedIn Profile](https://linkedin.com/in/your-profile) | ✉️ *Open to professional networking & operational analytics discussions.*
