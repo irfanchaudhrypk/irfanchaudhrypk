@@ -21,4 +21,4 @@ shop-floor operational performance with enterprise analytics and executive decis
 
 ---
 
-📬 **Connect with me:** [LinkedIn Profile](https://linkedin.com/in/your-profile) | ✉️ *Open to professional networking & operational analytics discussions.*
+📬 **Connect with me:** [LinkedIn Profile](www.linkedin.com/in/muhammad-irfan-203a5a133) | ✉️ *Open to professional networking & operational analytics discussions.*
