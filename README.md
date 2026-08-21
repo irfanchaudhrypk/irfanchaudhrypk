@@ -8,8 +8,10 @@
 *Operations Excellence, Supply Chain & Analytics Professional*
 
 ---
-
+### 🎓 Education
+* **MS in Supply Chain Management** — Bahria University, Islamabad
 ### 📊 Core Competencies & Tech Stack
+
 * **Domain Expertise:** Continuous Improvement, OEE Optimization, Supply Chain Planning, Process Engineering
 * **Analytics & BI:** MS Fabric, Power BI, DAX, Data Modeling, SQL, Advanced Excel
 * **Methodologies:** Lean Six Sigma, Root Cause Analysis (RCA), Operational Excellence (OpEx), KPI Governance
