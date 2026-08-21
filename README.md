@@ -1,7 +1,7 @@
 # Muhammad Irfan 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PepsiCo-00519E?style=for-the-badge&logo=pepsico&logoColor=white" alt="PepsiCo Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/PepsiCo_logo.svg" alt="PepsiCo Logo" height="40" />
 </p>
 
 ### **Operations Excellence Lead @ PepsiCo**
