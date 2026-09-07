@@ -5,11 +5,16 @@
 </p>
 
 ### **Operations Excellence Lead @ PepsiCo**
+🥇 **PepsiCo Chairman's Circle Champion Award - Gold Medal**  
 *Operations Excellence, Supply Chain & Analytics Professional*
 
 ---
 ### 🎓 Education
 * **MS in Supply Chain Management** — Bahria University, Islamabad
+* **BS in Mechanical Engineering** — BZU Multan
+* **Lean Six Sigma Green Belt** — PIQC Singapore
+
+---
 ### 📊 Core Competencies & Tech Stack
 
 * **Domain Expertise:** Continuous Improvement, OEE Optimization, Supply Chain Planning, Process Engineering
